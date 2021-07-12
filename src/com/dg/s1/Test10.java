@@ -26,6 +26,8 @@ public class Test10 {
 		result = (num/4)*10+num%4;		
 		System.out.println(result);
 	
+		//Github 사용하기
+		//Code 추가
 				
 		
 	}
